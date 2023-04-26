@@ -9,7 +9,10 @@ function App() {
  
   return (
     <>
-      <HomeScreen/>
+      {/* <HomeScreen/> */}
+      <h1>
+        Hola mundo
+      </h1>
     </>
   )
 }

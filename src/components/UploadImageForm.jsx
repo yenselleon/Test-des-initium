@@ -75,7 +75,7 @@ const UploadImageForm = () => {
             <form className="contact100-form" onSubmit={handlerSubmitImage}>
 
                 <span className="contact100-form-title text-center">
-                    Sube una Selfie
+                    Sube una Selfie new
                 </span>
 
                 <Modal

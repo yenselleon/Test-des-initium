@@ -41,7 +41,7 @@ const RegisterForm = () => {
       <form className="contact100-form" onSubmit={formik.handleSubmit}>
 
         <span className="contact100-form-title text-center">
-          Registro
+          Registro1
         </span>
 
         {/* name input*/}

@@ -1,5 +1,7 @@
 import { useFormik } from 'formik';
 import * as Yup from 'yup';
+import initiumLogo from '../images/Initium-logo.png';
+
 
 
 const RegisterForm = () => {
@@ -34,7 +36,7 @@ const RegisterForm = () => {
   return (
     <div className="wrap-contact100">
       <div className="contact100-pic js-tilt" data-tilt>
-        <img src="src/images/Initium-logo.png" alt="IMG" />
+        <img src={initiumLogo} alt="IMG" />
       </div>
 
       {/* Start Form */}
